@@ -1,0 +1,4305 @@
+Welcome to Dark Dungeons!
+How many events will this adventure have? 100
+What shall be the name of your hero? Doruk
+Arise Doruk! Your adventure now begins...
+======================================
+
+Turn 1
+You stumble upon a treacherous crypt!
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 100 / 100
+Level: 1
+Experience: 0
+
+> A
+Invalid input, try again.
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 100 / 100
+Level: 1
+Experience: 0
+
+> E
+Invalid input, try again.
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 100 / 100
+Level: 1
+Experience: 0
+
+> P
+Turn 2
+You managed to get to a terrifying temple!
+Goblin lunges at you!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Goblin with Short Sword
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 100 / 100
+Level: 1
+Experience: 0
+
+> A
+You've dealt 6 damage!
+Goblin attacks your Foot with a Slashing attack for 3 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Goblin with Short Sword
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 97 / 100
+Level: 1
+Experience: 0
+
+> A
+You've dealt 6 damage!
+Goblin attacks your Foot with a Slashing attack for 3 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Goblin with Short Sword
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 94 / 100
+Level: 1
+Experience: 0
+
+> A
+The Goblin has dropped an item!
+You have killed the Goblin!
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         T - Take Health Potion
+         E - Examine Health Potion
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 94 / 100
+Level: 1
+Experience: 30
+
+> E
+Health Potion
+--------------
+
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         T - Take Health Potion
+         E - Examine Health Potion
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 94 / 100
+Level: 1
+Experience: 30
+
+> T
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 94 / 100
+Level: 1
+Experience: 30
+
+> I
+
+=========================
+Currently Equipped
+=========================
+Headgear
+---------------------------------
+N/A
+
+Body
+---------------------------------
+N/A
+
+Footgear
+---------------------------------
+N/A
+
+Weapon
+---------------------------------
+Short Sword
+--------------
+Damage: 5(S)
+
+Talisman
+---------------------------------
+N/A
+
+
+=========================
+Inventory
+=========================
+Slot #1
+---------------------------------
+Health Potion
+--------------
+
+Slot #2
+---------------------------------
+Health Potion
+--------------
+
+Slot #3
+---------------------------------
+Health Potion
+--------------
+
+Slot #4
+---------------------------------
+Empty
+
+Slot #5
+---------------------------------
+Empty
+
+Slot #6
+---------------------------------
+Empty
+
+Slot #7
+---------------------------------
+Empty
+
+Slot #8
+---------------------------------
+Empty
+
+Slot #9
+---------------------------------
+Empty
+
+Slot #10
+---------------------------------
+Empty
+
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 94 / 100
+Level: 1
+Experience: 30
+
+> P
+Turn 3
+You walk to a lifeless garden!
+You have found a Warhammer (Weapon)!
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         T - Take Warhammer
+         E - Examine Warhammer
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 94 / 100
+Level: 1
+Experience: 30
+
+> E
+Warhammer
+--------------
+Damage: 5(M)
+
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         T - Take Warhammer
+         E - Examine Warhammer
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 94 / 100
+Level: 1
+Experience: 30
+
+> T
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 94 / 100
+Level: 1
+Experience: 30
+
+> I
+
+=========================
+Currently Equipped
+=========================
+Headgear
+---------------------------------
+N/A
+
+Body
+---------------------------------
+N/A
+
+Footgear
+---------------------------------
+N/A
+
+Weapon
+---------------------------------
+Short Sword
+--------------
+Damage: 5(S)
+
+Talisman
+---------------------------------
+N/A
+
+
+=========================
+Inventory
+=========================
+Slot #1
+---------------------------------
+Health Potion
+--------------
+
+Slot #2
+---------------------------------
+Health Potion
+--------------
+
+Slot #3
+---------------------------------
+Health Potion
+--------------
+
+Slot #4
+---------------------------------
+Warhammer
+--------------
+Damage: 5(M)
+
+Slot #5
+---------------------------------
+Empty
+
+Slot #6
+---------------------------------
+Empty
+
+Slot #7
+---------------------------------
+Empty
+
+Slot #8
+---------------------------------
+Empty
+
+Slot #9
+---------------------------------
+Empty
+
+Slot #10
+---------------------------------
+Empty
+
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 94 / 100
+Level: 1
+Experience: 30
+
+> U 4
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 94 / 100
+Level: 1
+Experience: 30
+
+> I
+
+=========================
+Currently Equipped
+=========================
+Headgear
+---------------------------------
+N/A
+
+Body
+---------------------------------
+N/A
+
+Footgear
+---------------------------------
+N/A
+
+Weapon
+---------------------------------
+Warhammer
+--------------
+Damage: 5(M)
+
+Talisman
+---------------------------------
+N/A
+
+
+=========================
+Inventory
+=========================
+Slot #1
+---------------------------------
+Health Potion
+--------------
+
+Slot #2
+---------------------------------
+Health Potion
+--------------
+
+Slot #3
+---------------------------------
+Health Potion
+--------------
+
+Slot #4
+---------------------------------
+Short Sword
+--------------
+Damage: 5(S)
+
+Slot #5
+---------------------------------
+Empty
+
+Slot #6
+---------------------------------
+Empty
+
+Slot #7
+---------------------------------
+Empty
+
+Slot #8
+---------------------------------
+Empty
+
+Slot #9
+---------------------------------
+Empty
+
+Slot #10
+---------------------------------
+Empty
+
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 94 / 100
+Level: 1
+Experience: 30
+
+> P
+Turn 4
+You stand near an endless crypt!
+You have found a Warhammer (Weapon)!
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         T - Take Warhammer
+         E - Examine Warhammer
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 94 / 100
+Level: 1
+Experience: 30
+
+> E
+Warhammer
+--------------
+Damage: 5(P)
+
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         T - Take Warhammer
+         E - Examine Warhammer
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 94 / 100
+Level: 1
+Experience: 30
+
+> T
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 94 / 100
+Level: 1
+Experience: 30
+
+> I
+
+=========================
+Currently Equipped
+=========================
+Headgear
+---------------------------------
+N/A
+
+Body
+---------------------------------
+N/A
+
+Footgear
+---------------------------------
+N/A
+
+Weapon
+---------------------------------
+Warhammer
+--------------
+Damage: 5(M)
+
+Talisman
+---------------------------------
+N/A
+
+
+=========================
+Inventory
+=========================
+Slot #1
+---------------------------------
+Health Potion
+--------------
+
+Slot #2
+---------------------------------
+Health Potion
+--------------
+
+Slot #3
+---------------------------------
+Health Potion
+--------------
+
+Slot #4
+---------------------------------
+Short Sword
+--------------
+Damage: 5(S)
+
+Slot #5
+---------------------------------
+Warhammer
+--------------
+Damage: 5(P)
+
+Slot #6
+---------------------------------
+Empty
+
+Slot #7
+---------------------------------
+Empty
+
+Slot #8
+---------------------------------
+Empty
+
+Slot #9
+---------------------------------
+Empty
+
+Slot #10
+---------------------------------
+Empty
+
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 94 / 100
+Level: 1
+Experience: 30
+
+> P
+Turn 5
+You walk to an evil festering aqueduct!
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 94 / 100
+Level: 1
+Experience: 30
+
+> P
+Turn 6
+You managed to get to a lifeless jail!
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 94 / 100
+Level: 1
+Experience: 30
+
+> P
+Turn 7
+You managed to get to a majestic crypt!
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 94 / 100
+Level: 1
+Experience: 30
+
+> P
+Turn 8
+You stumble upon a lifeless garden!
+Orc reveals itself!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Warhammer
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 94 / 100
+Level: 1
+Experience: 30
+
+> A
+You've dealt 5 damage!
+Orc attacks your Foot with a Slashing attack for 6 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Warhammer
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 88 / 100
+Level: 1
+Experience: 30
+
+> A
+You've dealt 5 damage!
+Orc attacks your Body with a Slashing attack for 6 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Warhammer
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 82 / 100
+Level: 1
+Experience: 30
+
+> A
+You've dealt 5 damage!
+Orc attacks your Head with a Slashing attack for 6 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Warhammer
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 76 / 100
+Level: 1
+Experience: 30
+
+> A
+You've dealt 5 damage!
+Orc attacks your Foot with a Slashing attack for 6 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Warhammer
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 70 / 100
+Level: 1
+Experience: 30
+
+> A
+You have killed the Orc!
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 70 / 100
+Level: 1
+Experience: 90
+
+> P
+Turn 9
+You ventured into a grim, unwelcoming castle!
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 70 / 100
+Level: 1
+Experience: 90
+
+> P
+Turn 10
+You travel to a barren, empty crypt!
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 70 / 100
+Level: 1
+Experience: 90
+
+> P
+Turn 11
+You found yourself near an ominous road!
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 70 / 100
+Level: 1
+Experience: 90
+
+> P
+Turn 12
+You stand near a grim, unwelcoming crypt!
+You have found a Leather Armor (Body)!
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         T - Take Leather Armor
+         E - Examine Leather Armor
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 70 / 100
+Level: 1
+Experience: 90
+
+> E
+Leather Armor
+--------------
+Health: 1
+
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         T - Take Leather Armor
+         E - Examine Leather Armor
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 70 / 100
+Level: 1
+Experience: 90
+
+> T
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 70 / 100
+Level: 1
+Experience: 90
+
+> I
+
+=========================
+Currently Equipped
+=========================
+Headgear
+---------------------------------
+N/A
+
+Body
+---------------------------------
+N/A
+
+Footgear
+---------------------------------
+N/A
+
+Weapon
+---------------------------------
+Warhammer
+--------------
+Damage: 5(M)
+
+Talisman
+---------------------------------
+N/A
+
+
+=========================
+Inventory
+=========================
+Slot #1
+---------------------------------
+Health Potion
+--------------
+
+Slot #2
+---------------------------------
+Health Potion
+--------------
+
+Slot #3
+---------------------------------
+Health Potion
+--------------
+
+Slot #4
+---------------------------------
+Short Sword
+--------------
+Damage: 5(S)
+
+Slot #5
+---------------------------------
+Warhammer
+--------------
+Damage: 5(P)
+
+Slot #6
+---------------------------------
+Leather Armor
+--------------
+Health: 1
+
+Slot #7
+---------------------------------
+Empty
+
+Slot #8
+---------------------------------
+Empty
+
+Slot #9
+---------------------------------
+Empty
+
+Slot #10
+---------------------------------
+Empty
+
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 70 / 100
+Level: 1
+Experience: 90
+
+> U 6
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 71 / 101
+Level: 1
+Experience: 90
+
+> P
+Turn 13
+You travel to a lifeless dungeon!
+You have found a Great Axe (Weapon)!
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         T - Take Great Axe
+         E - Examine Great Axe
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 71 / 101
+Level: 1
+Experience: 90
+
+> E
+Great Axe
+--------------
+Damage: 6(S)
+
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         T - Take Great Axe
+         E - Examine Great Axe
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 71 / 101
+Level: 1
+Experience: 90
+
+> T
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 71 / 101
+Level: 1
+Experience: 90
+
+> I
+
+=========================
+Currently Equipped
+=========================
+Headgear
+---------------------------------
+N/A
+
+Body
+---------------------------------
+Leather Armor
+--------------
+Health: 1
+
+Footgear
+---------------------------------
+N/A
+
+Weapon
+---------------------------------
+Warhammer
+--------------
+Damage: 5(M)
+
+Talisman
+---------------------------------
+N/A
+
+
+=========================
+Inventory
+=========================
+Slot #1
+---------------------------------
+Health Potion
+--------------
+
+Slot #2
+---------------------------------
+Health Potion
+--------------
+
+Slot #3
+---------------------------------
+Health Potion
+--------------
+
+Slot #4
+---------------------------------
+Short Sword
+--------------
+Damage: 5(S)
+
+Slot #5
+---------------------------------
+Warhammer
+--------------
+Damage: 5(P)
+
+Slot #6
+---------------------------------
+Great Axe
+--------------
+Damage: 6(S)
+
+Slot #7
+---------------------------------
+Empty
+
+Slot #8
+---------------------------------
+Empty
+
+Slot #9
+---------------------------------
+Empty
+
+Slot #10
+---------------------------------
+Empty
+
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 71 / 101
+Level: 1
+Experience: 90
+
+> U 6
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 71 / 101
+Level: 1
+Experience: 90
+
+> I
+
+=========================
+Currently Equipped
+=========================
+Headgear
+---------------------------------
+N/A
+
+Body
+---------------------------------
+Leather Armor
+--------------
+Health: 1
+
+Footgear
+---------------------------------
+N/A
+
+Weapon
+---------------------------------
+Great Axe
+--------------
+Damage: 6(S)
+
+Talisman
+---------------------------------
+N/A
+
+
+=========================
+Inventory
+=========================
+Slot #1
+---------------------------------
+Health Potion
+--------------
+
+Slot #2
+---------------------------------
+Health Potion
+--------------
+
+Slot #3
+---------------------------------
+Health Potion
+--------------
+
+Slot #4
+---------------------------------
+Short Sword
+--------------
+Damage: 5(S)
+
+Slot #5
+---------------------------------
+Warhammer
+--------------
+Damage: 5(P)
+
+Slot #6
+---------------------------------
+Warhammer
+--------------
+Damage: 5(M)
+
+Slot #7
+---------------------------------
+Empty
+
+Slot #8
+---------------------------------
+Empty
+
+Slot #9
+---------------------------------
+Empty
+
+Slot #10
+---------------------------------
+Empty
+
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 71 / 101
+Level: 1
+Experience: 90
+
+> D 6
+Are you sure? This operation can't be reversed! (Y/N)
+> Y
+Dropped Warhammer!
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 71 / 101
+Level: 1
+Experience: 90
+
+> I
+
+=========================
+Currently Equipped
+=========================
+Headgear
+---------------------------------
+N/A
+
+Body
+---------------------------------
+Leather Armor
+--------------
+Health: 1
+
+Footgear
+---------------------------------
+N/A
+
+Weapon
+---------------------------------
+Great Axe
+--------------
+Damage: 6(S)
+
+Talisman
+---------------------------------
+N/A
+
+
+=========================
+Inventory
+=========================
+Slot #1
+---------------------------------
+Health Potion
+--------------
+
+Slot #2
+---------------------------------
+Health Potion
+--------------
+
+Slot #3
+---------------------------------
+Health Potion
+--------------
+
+Slot #4
+---------------------------------
+Short Sword
+--------------
+Damage: 5(S)
+
+Slot #5
+---------------------------------
+Warhammer
+--------------
+Damage: 5(P)
+
+Slot #6
+---------------------------------
+Empty
+
+Slot #7
+---------------------------------
+Empty
+
+Slot #8
+---------------------------------
+Empty
+
+Slot #9
+---------------------------------
+Empty
+
+Slot #10
+---------------------------------
+Empty
+
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 71 / 101
+Level: 1
+Experience: 90
+
+> P
+Turn 14
+You ventured into a lifeless crypt!
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 71 / 101
+Level: 1
+Experience: 90
+
+> P
+Turn 15
+You walk to an ominous graveyard!
+You have found a Skull Cap (Headgear)!
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         T - Take Skull Cap
+         E - Examine Skull Cap
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 71 / 101
+Level: 1
+Experience: 90
+
+> E
+Skull Cap
+--------------
+Defense: 1(L)
+
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         T - Take Skull Cap
+         E - Examine Skull Cap
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 71 / 101
+Level: 1
+Experience: 90
+
+> T
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 71 / 101
+Level: 1
+Experience: 90
+
+> I
+
+=========================
+Currently Equipped
+=========================
+Headgear
+---------------------------------
+N/A
+
+Body
+---------------------------------
+Leather Armor
+--------------
+Health: 1
+
+Footgear
+---------------------------------
+N/A
+
+Weapon
+---------------------------------
+Great Axe
+--------------
+Damage: 6(S)
+
+Talisman
+---------------------------------
+N/A
+
+
+=========================
+Inventory
+=========================
+Slot #1
+---------------------------------
+Health Potion
+--------------
+
+Slot #2
+---------------------------------
+Health Potion
+--------------
+
+Slot #3
+---------------------------------
+Health Potion
+--------------
+
+Slot #4
+---------------------------------
+Short Sword
+--------------
+Damage: 5(S)
+
+Slot #5
+---------------------------------
+Warhammer
+--------------
+Damage: 5(P)
+
+Slot #6
+---------------------------------
+Skull Cap
+--------------
+Defense: 1(L)
+
+Slot #7
+---------------------------------
+Empty
+
+Slot #8
+---------------------------------
+Empty
+
+Slot #9
+---------------------------------
+Empty
+
+Slot #10
+---------------------------------
+Empty
+
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 71 / 101
+Level: 1
+Experience: 90
+
+> U 6
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 71 / 101
+Level: 1
+Experience: 90
+
+> I
+
+=========================
+Currently Equipped
+=========================
+Headgear
+---------------------------------
+Skull Cap
+--------------
+Defense: 1(L)
+
+Body
+---------------------------------
+Leather Armor
+--------------
+Health: 1
+
+Footgear
+---------------------------------
+N/A
+
+Weapon
+---------------------------------
+Great Axe
+--------------
+Damage: 6(S)
+
+Talisman
+---------------------------------
+N/A
+
+
+=========================
+Inventory
+=========================
+Slot #1
+---------------------------------
+Health Potion
+--------------
+
+Slot #2
+---------------------------------
+Health Potion
+--------------
+
+Slot #3
+---------------------------------
+Health Potion
+--------------
+
+Slot #4
+---------------------------------
+Short Sword
+--------------
+Damage: 5(S)
+
+Slot #5
+---------------------------------
+Warhammer
+--------------
+Damage: 5(P)
+
+Slot #6
+---------------------------------
+Empty
+
+Slot #7
+---------------------------------
+Empty
+
+Slot #8
+---------------------------------
+Empty
+
+Slot #9
+---------------------------------
+Empty
+
+Slot #10
+---------------------------------
+Empty
+
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 71 / 101
+Level: 1
+Experience: 90
+
+> P
+Turn 16
+You ventured into an endless dungeon!
+Orc ambushes you!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 71 / 101
+Level: 1
+Experience: 90
+
+> A
+You've dealt 6 damage!
+Orc attacks your Foot with a Slashing attack for 6 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 65 / 101
+Level: 1
+Experience: 90
+
+> A
+You've dealt 6 damage!
+Orc attacks your Head with a Slashing attack for 4 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 61 / 101
+Level: 1
+Experience: 90
+
+> A
+You've dealt 6 damage!
+Orc attacks your Head with a Slashing attack for 4 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 57 / 101
+Level: 1
+Experience: 90
+
+> A
+You've dealt 6 damage!
+Orc attacks your Foot with a Slashing attack for 6 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 51 / 101
+Level: 1
+Experience: 90
+
+> A
+You have killed the Orc!
+You have leveled up! You are now level 2.
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 103 / 103
+Level: 2
+Experience: 50
+
+> P
+Turn 17
+You travel to a vast dungeon!
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 103 / 103
+Level: 2
+Experience: 50
+
+> P
+Turn 18
+You stumble upon a vast aqueduct!
+Orc emerges!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 103 / 103
+Level: 2
+Experience: 50
+
+> V
+Orc
+----------------
+Health: 25
+Defense: 1 Light
+Attacks:
+        1 5(S)
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 103 / 103
+Level: 2
+Experience: 50
+
+> A
+You've dealt 6 damage!
+Orc attacks your Body with a Slashing attack for 6 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 97 / 103
+Level: 2
+Experience: 50
+
+> A
+You've dealt 6 damage!
+Orc attacks your Head with a Slashing attack for 4 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 93 / 103
+Level: 2
+Experience: 50
+
+> A
+You've dealt 6 damage!
+Orc attacks your Body with a Slashing attack for 6 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 87 / 103
+Level: 2
+Experience: 50
+
+> A
+You've dealt 6 damage!
+Orc attacks your Body with a Slashing attack for 6 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 81 / 103
+Level: 2
+Experience: 50
+
+> A
+You have killed the Orc!
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 81 / 103
+Level: 2
+Experience: 110
+
+> P
+Turn 19
+You managed to get to a grand chateu!
+Orc jumps at you!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 81 / 103
+Level: 2
+Experience: 110
+
+> A
+You've dealt 6 damage!
+Orc attacks your Foot with a Slashing attack for 6 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 75 / 103
+Level: 2
+Experience: 110
+
+> A
+You've dealt 6 damage!
+Orc attacks your Head with a Slashing attack for 4 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 71 / 103
+Level: 2
+Experience: 110
+
+> A
+You've dealt 6 damage!
+Orc attacks your Foot with a Slashing attack for 6 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 65 / 103
+Level: 2
+Experience: 110
+
+> A
+You've dealt 6 damage!
+Orc attacks your Foot with a Slashing attack for 6 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 59 / 103
+Level: 2
+Experience: 110
+
+> a
+You have killed the Orc!
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 59 / 103
+Level: 2
+Experience: 170
+
+> p
+Turn 20
+You stand near an endless castle!
+Goblin shows up!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Goblin with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 59 / 103
+Level: 2
+Experience: 170
+
+> a
+You've dealt 7 damage!
+Goblin attacks your Foot with a Slashing attack for 3 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Goblin with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 56 / 103
+Level: 2
+Experience: 170
+
+> a
+You've dealt 7 damage!
+Goblin attacks your Head with a Slashing attack for 2 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Goblin with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 54 / 103
+Level: 2
+Experience: 170
+
+> a
+You have killed the Goblin!
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 54 / 103
+Level: 2
+Experience: 200
+
+> p
+Turn 21
+You managed to get to a dark, twisted chateu!
+Orc lunges at you!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 54 / 103
+Level: 2
+Experience: 200
+
+> a
+You've dealt 6 damage!
+Orc attacks your Foot with a Slashing attack for 6 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 48 / 103
+Level: 2
+Experience: 200
+
+> a
+You've dealt 6 damage!
+Orc attacks your Foot with a Slashing attack for 6 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 42 / 103
+Level: 2
+Experience: 200
+
+> a
+You've dealt 6 damage!
+Orc attacks your Head with a Slashing attack for 4 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 38 / 103
+Level: 2
+Experience: 200
+
+> a
+You've dealt 6 damage!
+Orc attacks your Body with a Slashing attack for 6 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 32 / 103
+Level: 2
+Experience: 200
+
+> a
+You have killed the Orc!
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 32 / 103
+Level: 2
+Experience: 260
+
+> p
+Turn 22
+You walk to a treacherous graveyard!
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 32 / 103
+Level: 2
+Experience: 260
+
+>
+p
+Turn 23
+You found yourself near a very mysterious forest!
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 32 / 103
+Level: 2
+Experience: 260
+
+> p
+Turn 24
+You ventured into a lifeless crypt!
+Goblin lunges at you!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Goblin with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 32 / 103
+Level: 2
+Experience: 260
+
+> a
+You've dealt 7 damage!
+Goblin attacks your Body with a Slashing attack for 3 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Goblin with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 29 / 103
+Level: 2
+Experience: 260
+
+> a
+You've dealt 7 damage!
+Goblin attacks your Foot with a Slashing attack for 3 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Goblin with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 26 / 103
+Level: 2
+Experience: 260
+
+> a
+You have killed the Goblin!
+You have leveled up! You are now level 3.
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 105 / 105
+Level: 3
+Experience: 26
+
+> p
+Turn 25
+You stumble upon a vast graveyard!
+Orc lunges at you!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 105 / 105
+Level: 3
+Experience: 26
+
+> a
+You've dealt 7 damage!
+Orc attacks your Foot with a Slashing attack for 6 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 99 / 105
+Level: 3
+Experience: 26
+
+> a
+You've dealt 7 damage!
+Orc attacks your Head with a Slashing attack for 4 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 95 / 105
+Level: 3
+Experience: 26
+
+> a
+You've dealt 7 damage!
+Orc attacks your Body with a Slashing attack for 6 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 89 / 105
+Level: 3
+Experience: 26
+
+> a
+The Orc has dropped an item!
+You have killed the Orc!
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         T - Take Skull Cap
+         E - Examine Skull Cap
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 89 / 105
+Level: 3
+Experience: 86
+
+> E
+Skull Cap
+--------------
+Health: 2
+
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         T - Take Skull Cap
+         E - Examine Skull Cap
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 89 / 105
+Level: 3
+Experience: 86
+
+> p
+Turn 26
+You walk to a vast road!
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 89 / 105
+Level: 3
+Experience: 86
+
+> p
+Turn 27
+You managed to get to a misty crypt!
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 89 / 105
+Level: 3
+Experience: 86
+
+> p
+Turn 28
+You stand near an endless dungeon!
+Orc emerges!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 89 / 105
+Level: 3
+Experience: 86
+
+> a
+You've dealt 7 damage!
+Orc attacks your Foot with a Slashing attack for 6 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 83 / 105
+Level: 3
+Experience: 86
+
+> a
+You've dealt 7 damage!
+Orc attacks your Foot with a Slashing attack for 6 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 77 / 105
+Level: 3
+Experience: 86
+
+> a
+You've dealt 7 damage!
+Orc attacks your Body with a Slashing attack for 6 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 71 / 105
+Level: 3
+Experience: 86
+
+> a
+You have killed the Orc!
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 71 / 105
+Level: 3
+Experience: 146
+
+> p
+Turn 29
+You ventured into a dark, twisted aqueduct!
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 71 / 105
+Level: 3
+Experience: 146
+
+> a
+Invalid input, try again.
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 71 / 105
+Level: 3
+Experience: 146
+
+> p
+Turn 30
+You managed to get to a vast chateu!
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 71 / 105
+Level: 3
+Experience: 146
+
+> p
+Turn 31
+You stumble upon a dark, twisted temple!
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 71 / 105
+Level: 3
+Experience: 146
+
+> p
+Turn 32
+You managed to get to a grim, unwelcoming dungeon!
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 71 / 105
+Level: 3
+Experience: 146
+
+> p
+Turn 33
+You stumble upon a terrifying crypt!
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 71 / 105
+Level: 3
+Experience: 146
+
+> p
+Turn 34
+You walk to a misty garden!
+You have found a Runic Talisman (Talisman)!
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         T - Take Runic Talisman
+         E - Examine Runic Talisman
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 71 / 105
+Level: 3
+Experience: 146
+
+> e
+Runic Talisman
+--------------
+Damage: 8(M)
+
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         T - Take Runic Talisman
+         E - Examine Runic Talisman
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 71 / 105
+Level: 3
+Experience: 146
+
+> T
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 71 / 105
+Level: 3
+Experience: 146
+
+> I
+
+=========================
+Currently Equipped
+=========================
+Headgear
+---------------------------------
+Skull Cap
+--------------
+Defense: 1(L)
+
+Body
+---------------------------------
+Leather Armor
+--------------
+Health: 1
+
+Footgear
+---------------------------------
+N/A
+
+Weapon
+---------------------------------
+Great Axe
+--------------
+Damage: 6(S)
+
+Talisman
+---------------------------------
+N/A
+
+
+=========================
+Inventory
+=========================
+Slot #1
+---------------------------------
+Health Potion
+--------------
+
+Slot #2
+---------------------------------
+Health Potion
+--------------
+
+Slot #3
+---------------------------------
+Health Potion
+--------------
+
+Slot #4
+---------------------------------
+Short Sword
+--------------
+Damage: 5(S)
+
+Slot #5
+---------------------------------
+Warhammer
+--------------
+Damage: 5(P)
+
+Slot #6
+---------------------------------
+Runic Talisman
+--------------
+Damage: 8(M)
+
+Slot #7
+---------------------------------
+Empty
+
+Slot #8
+---------------------------------
+Empty
+
+Slot #9
+---------------------------------
+Empty
+
+Slot #10
+---------------------------------
+Empty
+
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 71 / 105
+Level: 3
+Experience: 146
+
+> U 6
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 71 / 105
+Level: 3
+Experience: 146
+
+> p
+Turn 35
+You stand near a foul stenching temple!
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 71 / 105
+Level: 3
+Experience: 146
+
+> p
+Turn 36
+You walk to a chilling aqueduct!
+Troll has appeared!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Troll with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 71 / 105
+Level: 3
+Experience: 146
+
+> a
+You've dealt 8 damage!
+Troll attacks your Foot with a Slashing attack for 9 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Troll with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 62 / 105
+Level: 3
+Experience: 146
+
+> I
+
+=========================
+Currently Equipped
+=========================
+Headgear
+---------------------------------
+Skull Cap
+--------------
+Defense: 1(L)
+
+Body
+---------------------------------
+Leather Armor
+--------------
+Health: 1
+
+Footgear
+---------------------------------
+N/A
+
+Weapon
+---------------------------------
+Great Axe
+--------------
+Damage: 6(S)
+
+Talisman
+---------------------------------
+Runic Talisman
+--------------
+Damage: 8(M)
+
+
+=========================
+Inventory
+=========================
+Slot #1
+---------------------------------
+Health Potion
+--------------
+
+Slot #2
+---------------------------------
+Health Potion
+--------------
+
+Slot #3
+---------------------------------
+Health Potion
+--------------
+
+Slot #4
+---------------------------------
+Short Sword
+--------------
+Damage: 5(S)
+
+Slot #5
+---------------------------------
+Warhammer
+--------------
+Damage: 5(P)
+
+Slot #6
+---------------------------------
+Empty
+
+Slot #7
+---------------------------------
+Empty
+
+Slot #8
+---------------------------------
+Empty
+
+Slot #9
+---------------------------------
+Empty
+
+Slot #10
+---------------------------------
+Empty
+
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Troll with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 62 / 105
+Level: 3
+Experience: 146
+
+> V
+Troll
+----------------
+Health: 27
+Defense: 0 Light
+Attacks:
+        1 8(S)
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Troll with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 62 / 105
+Level: 3
+Experience: 146
+
+> a
+You've dealt 8 damage!
+Troll attacks your Body with a Slashing attack for 9 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Troll with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 53 / 105
+Level: 3
+Experience: 146
+
+> a
+You've dealt 8 damage!
+Troll attacks your Body with a Slashing attack for 9 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Troll with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 44 / 105
+Level: 3
+Experience: 146
+
+> a
+You've dealt 8 damage!
+Troll attacks your Head with a Slashing attack for 7 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Troll with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 37 / 105
+Level: 3
+Experience: 146
+
+> a
+You have killed the Troll!
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 37 / 105
+Level: 3
+Experience: 231
+
+> p
+Turn 37
+You stumble upon a lifeless crypt!
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 37 / 105
+Level: 3
+Experience: 231
+
+> p
+Turn 38
+You walk to a grand temple!
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 37 / 105
+Level: 3
+Experience: 231
+
+> p
+Turn 39
+You managed to get to a grand garden!
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 37 / 105
+Level: 3
+Experience: 231
+
+> p
+Turn 40
+You travel to a very mysterious crypt!
+Troll reveals itself!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Troll with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 37 / 105
+Level: 3
+Experience: 231
+
+> a
+You've dealt 8 damage!
+Troll attacks your Foot with a Slashing attack for 9 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Troll with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 28 / 105
+Level: 3
+Experience: 231
+
+> a
+You've dealt 8 damage!
+Troll attacks your Body with a Slashing attack for 9 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Troll with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 19 / 105
+Level: 3
+Experience: 231
+
+> a
+You've dealt 8 damage!
+Troll attacks your Foot with a Slashing attack for 9 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Troll with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 10 / 105
+Level: 3
+Experience: 231
+
+> a
+You've dealt 8 damage!
+Troll attacks your Head with a Slashing attack for 7 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Troll with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 3 / 105
+Level: 3
+Experience: 231
+
+> a
+You have killed the Troll!
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 3 / 105
+Level: 3
+Experience: 316
+
+> p
+Turn 41
+You managed to get to a dark, twisted dungeon!
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 3 / 105
+Level: 3
+Experience: 316
+
+> p
+Turn 42
+You stand near a vast chateu!
+Goblin reveals itself!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Goblin with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 3 / 105
+Level: 3
+Experience: 316
+
+> U 1
+Used the health potion. Health: 29
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Goblin with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 29 / 105
+Level: 3
+Experience: 316
+
+> U 2
+Used the health potion. Health: 55
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Goblin with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 55 / 105
+Level: 3
+Experience: 316
+
+> a
+You've dealt 8 damage!
+Goblin attacks your Body with a Slashing attack for 3 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Goblin with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 52 / 105
+Level: 3
+Experience: 316
+
+> a
+You have killed the Goblin!
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 52 / 105
+Level: 3
+Experience: 346
+
+> p
+Turn 43
+You found yourself near a very mysterious castle!
+You have found a Health Potion!
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         T - Take Health Potion
+         E - Examine Health Potion
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 52 / 105
+Level: 3
+Experience: 346
+
+> t
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 52 / 105
+Level: 3
+Experience: 346
+
+> p
+Turn 44
+You stand near a misty road!
+Goblin lunges at you!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Goblin with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 52 / 105
+Level: 3
+Experience: 346
+
+> a
+You've dealt 8 damage!
+Goblin attacks your Head with a Slashing attack for 2 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Goblin with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 50 / 105
+Level: 3
+Experience: 346
+
+> a
+You have killed the Goblin!
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 50 / 105
+Level: 3
+Experience: 376
+
+> p
+Turn 45
+You walk to an evil festering chateu!
+Goblin ambushes you!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Goblin with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 50 / 105
+Level: 3
+Experience: 376
+
+> a
+You've dealt 8 damage!
+Goblin attacks your Foot with a Slashing attack for 3 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Goblin with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 47 / 105
+Level: 3
+Experience: 376
+
+> a
+You have killed the Goblin!
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 47 / 105
+Level: 3
+Experience: 406
+
+> p
+Turn 46
+You walk to a barren, empty graveyard!
+Goblin materializes!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Goblin with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 47 / 105
+Level: 3
+Experience: 406
+
+> a
+You've dealt 8 damage!
+Goblin attacks your Head with a Slashing attack for 2 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Goblin with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 45 / 105
+Level: 3
+Experience: 406
+
+> a
+You have killed the Goblin!
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 45 / 105
+Level: 3
+Experience: 436
+
+> p
+Turn 47
+You managed to get to a foul stenching road!
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 45 / 105
+Level: 3
+Experience: 436
+
+> p
+Turn 48
+You walk to a very mysterious jail!
+Troll emerges!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Troll with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 45 / 105
+Level: 3
+Experience: 436
+
+> a
+You've dealt 8 damage!
+Troll attacks your Foot with a Slashing attack for 9 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Troll with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 36 / 105
+Level: 3
+Experience: 436
+
+> a
+You've dealt 8 damage!
+Troll attacks your Foot with a Slashing attack for 9 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Troll with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 27 / 105
+Level: 3
+Experience: 436
+
+> a
+You've dealt 8 damage!
+Troll attacks your Foot with a Slashing attack for 9 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Troll with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 18 / 105
+Level: 3
+Experience: 436
+
+> a
+You've dealt 8 damage!
+Troll attacks your Body with a Slashing attack for 9 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Troll with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 9 / 105
+Level: 3
+Experience: 436
+
+> a
+The Troll has dropped an item!
+You have killed the Troll!
+You have leveled up! You are now level 4.
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         T - Take Sharkskin Boots
+         E - Examine Sharkskin Boots
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 107 / 107
+Level: 4
+Experience: 41
+
+> E
+Sharkskin Boots
+--------------
+Health: 5
+
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         T - Take Sharkskin Boots
+         E - Examine Sharkskin Boots
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 107 / 107
+Level: 4
+Experience: 41
+
+> T
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 107 / 107
+Level: 4
+Experience: 41
+
+> I
+
+=========================
+Currently Equipped
+=========================
+Headgear
+---------------------------------
+Skull Cap
+--------------
+Defense: 1(L)
+
+Body
+---------------------------------
+Leather Armor
+--------------
+Health: 1
+
+Footgear
+---------------------------------
+N/A
+
+Weapon
+---------------------------------
+Great Axe
+--------------
+Damage: 6(S)
+
+Talisman
+---------------------------------
+Runic Talisman
+--------------
+Damage: 8(M)
+
+
+=========================
+Inventory
+=========================
+Slot #1
+---------------------------------
+Health Potion
+--------------
+
+Slot #2
+---------------------------------
+Sharkskin Boots
+--------------
+Health: 5
+
+Slot #3
+---------------------------------
+Health Potion
+--------------
+
+Slot #4
+---------------------------------
+Short Sword
+--------------
+Damage: 5(S)
+
+Slot #5
+---------------------------------
+Warhammer
+--------------
+Damage: 5(P)
+
+Slot #6
+---------------------------------
+Empty
+
+Slot #7
+---------------------------------
+Empty
+
+Slot #8
+---------------------------------
+Empty
+
+Slot #9
+---------------------------------
+Empty
+
+Slot #10
+---------------------------------
+Empty
+
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 107 / 107
+Level: 4
+Experience: 41
+
+> U 2
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 112 / 112
+Level: 4
+Experience: 41
+
+> p
+Turn 49
+You stand near a chilling aqueduct!
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 112 / 112
+Level: 4
+Experience: 41
+
+> p
+Turn 50
+You stand near a terrifying chateu!
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 112 / 112
+Level: 4
+Experience: 41
+
+> p
+Turn 51
+You stand near a foul stenching garden!
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 112 / 112
+Level: 4
+Experience: 41
+
+> p
+Turn 52
+You stumble upon a dark, twisted aqueduct!
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 112 / 112
+Level: 4
+Experience: 41
+
+> p
+Turn 53
+You stand near a barren, empty dungeon!
+You have found an Elven Boots (Footgear)!
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         T - Take Elven Boots
+         E - Examine Elven Boots
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 112 / 112
+Level: 4
+Experience: 41
+
+> e
+Elven Boots
+--------------
+Health: 6
+
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         T - Take Elven Boots
+         E - Examine Elven Boots
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 112 / 112
+Level: 4
+Experience: 41
+
+> t
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 112 / 112
+Level: 4
+Experience: 41
+
+> i
+
+=========================
+Currently Equipped
+=========================
+Headgear
+---------------------------------
+Skull Cap
+--------------
+Defense: 1(L)
+
+Body
+---------------------------------
+Leather Armor
+--------------
+Health: 1
+
+Footgear
+---------------------------------
+Sharkskin Boots
+--------------
+Health: 5
+
+Weapon
+---------------------------------
+Great Axe
+--------------
+Damage: 6(S)
+
+Talisman
+---------------------------------
+Runic Talisman
+--------------
+Damage: 8(M)
+
+
+=========================
+Inventory
+=========================
+Slot #1
+---------------------------------
+Health Potion
+--------------
+
+Slot #2
+---------------------------------
+Elven Boots
+--------------
+Health: 6
+
+Slot #3
+---------------------------------
+Health Potion
+--------------
+
+Slot #4
+---------------------------------
+Short Sword
+--------------
+Damage: 5(S)
+
+Slot #5
+---------------------------------
+Warhammer
+--------------
+Damage: 5(P)
+
+Slot #6
+---------------------------------
+Empty
+
+Slot #7
+---------------------------------
+Empty
+
+Slot #8
+---------------------------------
+Empty
+
+Slot #9
+---------------------------------
+Empty
+
+Slot #10
+---------------------------------
+Empty
+
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 112 / 112
+Level: 4
+Experience: 41
+
+> U 2
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 113 / 113
+Level: 4
+Experience: 41
+
+> i
+
+=========================
+Currently Equipped
+=========================
+Headgear
+---------------------------------
+Skull Cap
+--------------
+Defense: 1(L)
+
+Body
+---------------------------------
+Leather Armor
+--------------
+Health: 1
+
+Footgear
+---------------------------------
+Elven Boots
+--------------
+Health: 6
+
+Weapon
+---------------------------------
+Great Axe
+--------------
+Damage: 6(S)
+
+Talisman
+---------------------------------
+Runic Talisman
+--------------
+Damage: 8(M)
+
+
+=========================
+Inventory
+=========================
+Slot #1
+---------------------------------
+Health Potion
+--------------
+
+Slot #2
+---------------------------------
+Sharkskin Boots
+--------------
+Health: 5
+
+Slot #3
+---------------------------------
+Health Potion
+--------------
+
+Slot #4
+---------------------------------
+Short Sword
+--------------
+Damage: 5(S)
+
+Slot #5
+---------------------------------
+Warhammer
+--------------
+Damage: 5(P)
+
+Slot #6
+---------------------------------
+Empty
+
+Slot #7
+---------------------------------
+Empty
+
+Slot #8
+---------------------------------
+Empty
+
+Slot #9
+---------------------------------
+Empty
+
+Slot #10
+---------------------------------
+Empty
+
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 113 / 113
+Level: 4
+Experience: 41
+
+> d 2
+Are you sure? This operation can't be reversed! (Y/N)
+> Y
+Dropped Sharkskin Boots!
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 113 / 113
+Level: 4
+Experience: 41
+
+> p
+Turn 54
+You found yourself near a grim, unwelcoming graveyard!
+You have found a Health Potion!
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         T - Take Health Potion
+         E - Examine Health Potion
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 113 / 113
+Level: 4
+Experience: 41
+
+> t
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 113 / 113
+Level: 4
+Experience: 41
+
+> p
+Turn 55
+You found yourself near a dark, twisted dungeon!
+Orc jumps at you!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 113 / 113
+Level: 4
+Experience: 41
+
+> a
+You've dealt 7 damage!
+Orc attacks your Head with a Slashing attack for 4 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 109 / 113
+Level: 4
+Experience: 41
+
+> a
+You've dealt 7 damage!
+Orc attacks your Head with a Slashing attack for 4 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 105 / 113
+Level: 4
+Experience: 41
+
+> a
+You've dealt 7 damage!
+Orc attacks your Body with a Slashing attack for 6 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 99 / 113
+Level: 4
+Experience: 41
+
+> a
+The Orc has dropped an item!
+You have killed the Orc!
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         T - Take Elven Boots
+         E - Examine Elven Boots
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 99 / 113
+Level: 4
+Experience: 101
+
+> p
+Turn 56
+You walk to a misty garden!
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 99 / 113
+Level: 4
+Experience: 101
+
+> p
+Turn 57
+You ventured into a terrifying temple!
+Spider materializes!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Spider with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 99 / 113
+Level: 4
+Experience: 101
+
+> a
+You've dealt 7 damage!
+Spider attacks your Body with a Piercing attack for 4 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Spider with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 95 / 113
+Level: 4
+Experience: 101
+
+> a
+You've dealt 7 damage!
+Spider attacks your Head with a Piercing attack for 3 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Spider with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 92 / 113
+Level: 4
+Experience: 101
+
+> a
+You have killed the Spider!
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 92 / 113
+Level: 4
+Experience: 156
+
+> p
+Turn 58
+You managed to get to a treacherous forest!
+Orc jumps at you!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 92 / 113
+Level: 4
+Experience: 156
+
+> a
+You've dealt 7 damage!
+Orc attacks your Foot with a Slashing attack for 6 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 86 / 113
+Level: 4
+Experience: 156
+
+> a
+You've dealt 7 damage!
+Orc attacks your Body with a Slashing attack for 6 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 80 / 113
+Level: 4
+Experience: 156
+
+> a
+You've dealt 7 damage!
+Orc attacks your Foot with a Slashing attack for 6 damage!
+
+What shall you do?
+         I - View Inventory
+         A - Attack the Orc with Great Axe
+         V - View Enemy details
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 74 / 113
+Level: 4
+Experience: 156
+
+> a
+You have killed the Orc!
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 74 / 113
+Level: 4
+Experience: 216
+
+> p
+Turn 59
+You walk to a grim, unwelcoming temple!
+You have found a Health Potion!
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         T - Take Health Potion
+         E - Examine Health Potion
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 74 / 113
+Level: 4
+Experience: 216
+
+> t
+
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 74 / 113
+Level: 4
+Experience: 216
+
+> p
+Turn 60
+You found yourself near a grand graveyard!
+What shall you do?
+         I - View Inventory
+         P - Proceed to next area.
+         U - Use item at slot #
+         D - Drop item at slot #
+         Q - Quit
+Doruk
+----------------
+Health: 74 / 113
+Level: 4
+Experience: 216
