@@ -32,7 +32,7 @@ int main() {
         type = 'P';
     }
 
-    
+    // still need to set value according to the stat name
 
 
     return 0;
