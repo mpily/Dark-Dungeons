@@ -1,3 +1,7 @@
+
+#ifndef DARK_DUNGEONS_INVENTORIES_H
+#define DARK_DUNGEONS_INVENTORIES_H
+
 #include <string>
 #include <vector>
 #include <iostream>
@@ -12,6 +16,10 @@ private:
     vector<string> statNames;
     char type;
 public:
+    Inventories(const string &name) {
+        this->name = name;
+    }
+
     Inventories(const string &name, const string &statName, int statValue, char type){
         this->name = name;
         statNames.push_back(statName);
@@ -35,6 +43,12 @@ public:
         this->type = type;
     }
 
+    void clearStat(){
+        // we can use clear since the vector doesn't have pointers
+        statNames.clear();
+        statValues.clear();
+    }
+
     void showStats() const{
         cout << this->name << "\n";
         // loop through the stats. Will be necessary to show in the console
@@ -45,3 +59,5 @@ public:
     }
 
 };
+
+#endif
