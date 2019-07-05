@@ -2,7 +2,9 @@
  #ifndef  PLAYER
 #define PLAYER
 #include <vector>// because we will have a list of inventories
+#include <math.h>//for log function
 #include "Inventories.h"
+#include "Actors.h"
 /*
  i am not sure  whether or not to add a variable for level here or add it in the events class
  that part did not seem completely clear from the instructions
@@ -11,33 +13,34 @@ Due to the above I have left the Level up function to you to implement . Also I 
 
 
 */
-class Player{
+class Player : public Actor{
+protected:
   int maxHealth;
-  int health;
   int defense;
   int attack;
   int experiencePoints;
+  int level ;
 public:
-  constexpr Player(){
+   Player(){
     maxHealth = 100;
-    health = 100;
+    //health = 100;
     defense = 0;
     attack = 0;
     experiencePoints = 0;
+    level = 1;
   }
   ~Player() = default;//since no memory was allocated
-  void levelUp();
 
-  constexpr int getHealth(){
-    return health;
-  }
-  constexpr int getDefense(){
+  void levelUp();
+  void updateExperience();
+
+  int getDefense(){
     return defense;
   }
-  constexpr int getAttack(){
+  int getAttack(){
     return attack;
   }
-  constexpr int getexperiencePoints(){
+  int getexperiencePoints(){
     return experiencePoints;
   }
 
