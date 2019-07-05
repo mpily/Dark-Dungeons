@@ -1,5 +1,5 @@
 #pragma once
- #ifndef  PLAYER
+#ifndef  PLAYER
 #define PLAYER
 #include <vector>// because we will have a list of inventories
 #include "Inventories.h"
