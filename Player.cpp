@@ -27,8 +27,17 @@ int E_x(int level){
   return (r_x-r_xx);
 
 }
-Player::levelUp(){
+ void Player::levelUp(){
   if(experiencePoints >= E_x(this->level+1) ){
       this->level+=1;
+  }
+}
+void Player::collectInventory(Inventories newInventory){
+  if(this->playerInventories.size() == 10){
+    std::cout<<" Inventory is full";
+  }
+  else{
+    this->playerInventories.push_back(newInventory);
+    std::cout << "Inventory Added successfully" << '\n';
   }
 }

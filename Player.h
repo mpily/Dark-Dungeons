@@ -6,12 +6,7 @@
 #include "Inventories.h"
 #include "Actors.h"
 /*
- i am not sure  whether or not to add a variable for level here or add it in the events class
- that part did not seem completely clear from the instructions
- Also to be honest i havent fully understood polymorphism ... like in the practical sense so i am no sure how to  have this class inherit  from Actors.h
-Due to the above I have left the Level up function to you to implement . Also I need to read upp on inventories before adding the list of Items here
-
-
+outline of the Player class
 */
 class Player : public Actor{
 protected:
@@ -20,6 +15,7 @@ protected:
   int attack;
   int experiencePoints;
   int level ;
+  std::vector<Inventories> playerInventories;
 public:
    Player(){
     maxHealth = 100;
@@ -28,21 +24,23 @@ public:
     attack = 0;
     experiencePoints = 0;
     level = 1;
+
   }
   ~Player() = default;//since no memory was allocated
 
   void levelUp();
   void updateExperience();
 
-  int getDefense(){
+  int getDefense (){
     return defense;
   }
-  int getAttack(){
+  int getAttack (){
     return attack;
   }
-  int getexperiencePoints(){
+  int getexperiencePoints (){
     return experiencePoints;
   }
+  void collectInventory(Inventories newInventory);
 
 };
 

@@ -7,8 +7,6 @@
 #include "Names.h"
 #include "RNG.h"
 
-
-
 using std::vector;
 
 int main() {
@@ -79,6 +77,10 @@ int main() {
     }
 
     playerInventories[0]->showStats();
+    
+    std::cout << "/* message */" << '\n';
+    Player newPlayer;
+    newPlayer.collectInventory(*playerInventories[0]);
 
 
     return 0;
