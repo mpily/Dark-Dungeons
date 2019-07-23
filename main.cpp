@@ -77,10 +77,11 @@ int main() {
     }
 
     playerInventories[0]->showStats();
-    
+
     std::cout << "/* message */" << '\n';
     Player newPlayer;
-    newPlayer.collectInventory(*playerInventories[0]);
+    newPlayer.collectInventory(playerInventories[0]);
+    newPlayer.displayInventory();
 
 
     return 0;

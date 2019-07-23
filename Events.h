@@ -1,6 +1,8 @@
 #pragma once
 #include<vector>
 #include "RNG.h"
+#include"Inventories.h"
+#include"Enemies.h"
 //description of a class that will keep track of the events
 class Event{
 bool hasEnemy;
