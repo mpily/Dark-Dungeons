@@ -35,5 +35,5 @@ public:
     return magicAttack;
   }
 //////////////////////////////////////////////////
-  void damageTo
+  void damageTo();
 };

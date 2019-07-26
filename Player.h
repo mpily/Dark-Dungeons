@@ -3,6 +3,7 @@
 #define PLAYER
 #include <vector>// because we will have a list of inventories
 #include <math.h>//for log function
+#include<string> //to store the name
 #include<iostream>// for cout function
 #include "Inventories.h"
 #include "Actors.h"
@@ -23,7 +24,9 @@ protected:
   Inventories * weapon;
   Inventories * talisman;
 public:
-   Player(){
+   std::string name ;
+   Player(std::string aname){
+    name = aname;
     maxHealth = 100;
     //health = 100;
     defense = 0;
