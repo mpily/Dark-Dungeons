@@ -3,6 +3,8 @@
 #define PLAYER
 #include <vector>// because we will have a list of inventories
 #include <math.h>//for log function
+#include<string> //to store the name
+#include<iostream>// for cout function
 #include "Inventories.h"
 #include "Actors.h"
 /*
@@ -15,19 +17,28 @@ protected:
   int attack;
   int experiencePoints;
   int level ;
-  std::vector<Inventories> playerInventories;
+  std::vector<Inventories*> playerInventories;
+  Inventories * headGear;
+  Inventories * body;
+  Inventories  *footGear;
+  Inventories * weapon;
+  Inventories * talisman;
 public:
-   Player(){
+   std::string name ;
+   Player(std::string aname){
+    name = aname;
     maxHealth = 100;
     //health = 100;
     defense = 0;
     attack = 0;
     experiencePoints = 0;
+    headGear = body = footGear = weapon = talisman = NULL;
     level = 1;
 
   }
   ~Player() = default;//since no memory was allocated
 
+  void displayInventory();
   void levelUp();
   void updateExperience();
 
@@ -40,7 +51,8 @@ public:
   int getexperiencePoints (){
     return experiencePoints;
   }
-  void collectInventory(Inventories newInventory);
+  void collectInventory(Inventories * newInventory);
+
 
 };
 

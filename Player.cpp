@@ -1,3 +1,4 @@
+#include<string.h>
 #include"Player.h"
 /*Hello everyone, one of your friends messaged me about a little thing I forgot to state regarding the formulas. You should cast the power in P(x) to int as well. So the resulting formula is:
 
@@ -32,7 +33,7 @@ int E_x(int level){
       this->level+=1;
   }
 }
-void Player::collectInventory(Inventories newInventory){
+void Player::collectInventory(Inventories* newInventory){
   if(this->playerInventories.size() == 10){
     std::cout<<" Inventory is full";
   }
@@ -40,4 +41,30 @@ void Player::collectInventory(Inventories newInventory){
     this->playerInventories.push_back(newInventory);
     std::cout << "Inventory Added successfully" << '\n';
   }
+}
+void printType(std::string type,Inventories * inventoryType){
+  std::cout<<type<<" \n -------------------- \n";
+  if(inventoryType)inventoryType->showStats();
+  else std::cout<<"N/A";
+  std::cout<<"\n";
+
+}
+void Player::displayInventory(){
+  std::cout<<"========================= \n"<<"Currently Equipped \n"<<"========================= \n";
+  printType("headGear", headGear);
+  printType("body",body);
+  printType("footGear",footGear);
+  printType("weapon", weapon);
+  printType("talisman", talisman);
+  int count = 1;
+  std::cout<<"\n\n =========================   \n Inventory  \n ========================= \n";
+  for(auto & a : playerInventories){
+    std::cout<<"slot #"<<count<<"\n"<<"------------------------ \n";a->showStats();std::cout<<"\n"<<"-------------\n";
+    count++;
+  }
+  while (count < 11){
+    std::cout<<"slot #"<<count<<"\n"<<"------------------------ \n "<<" Empty\n"<<"-------------\n";
+    count++;
+  }
+
 }

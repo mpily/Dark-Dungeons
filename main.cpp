@@ -2,6 +2,7 @@
 #include <vector>
 #include <time.h>
 
+#include"Events.h"
 #include"Player.h"
 #include "Inventories.h"
 #include "Names.h"
@@ -77,10 +78,12 @@ int main() {
     }
 
     playerInventories[0]->showStats();
-    
+
     std::cout << "/* message */" << '\n';
-    Player newPlayer;
-    newPlayer.collectInventory(*playerInventories[0]);
+    Player newPlayer("Bill");
+    newPlayer.collectInventory(playerInventories[0]);
+    Event anEvent(newPlayer);
+    while(anEvent.play());
 
 
     return 0;
