@@ -19,7 +19,7 @@ int main() {
     char type;
     RNG randomizer(time(0)); // try catch is needed here for std::bad_alloc
     int randValue = randomizer.pick(0, 37);
-    int level = 1;
+    int level = 20;
 
     inventoryName = Item_Names[randValue];
 
@@ -58,6 +58,7 @@ int main() {
             } else if(randValue == 1 && (type == 'H' || type == 'B' || type == 'F' || type == 'T')){
                 if(type == 'T'){ // if defense is rolled on talisman make it magic resistance instead
                     statValue = randomizer.pick(0,level/4);
+                    statName = statNames[2];
                 }else{
                     statValue = randomizer.pick(1, 1 + level/3);
                 }
@@ -79,9 +80,9 @@ int main() {
 
     playerInventories[0]->showStats();
 
-    std::cout << "/* message */" << '\n';
+   // std::cout << "/* message */" << '\n';
     Player newPlayer("Bill");
-    newPlayer.collectInventory(playerInventories[0]);
+    //newPlayer.collectInventory(playerInventories[0]);
     Event anEvent(newPlayer);
     while(anEvent.play());
 

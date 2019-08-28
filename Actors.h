@@ -18,4 +18,11 @@ public:
   constexpr int getHealth(){
     return health;
   }
+
+    void setHealth(int health) {
+        Actor::health = health;
+    }
+
 };
+
+
