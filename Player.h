@@ -2,44 +2,57 @@
 #ifndef  PLAYER
 #define PLAYER
 #include <vector>// because we will have a list of inventories
+#include <math.h>//for log function
+#include<string> //to store the name
+#include<iostream>// for cout function
 #include "Inventories.h"
+#include "Actors.h"
 /*
- i am not sure  whether or not to add a variable for level here or add it in the events class
- that part did not seem completely clear from the instructions
- Also to be honest i havent fully understood polymorphism ... like in the practical sense so i am no sure how to  have this class inherit  from Actors.h
-Due to the above I have left the Level up function to you to implement . Also I need to read upp on inventories before adding the list of Items here
-
-
+outline of the Player class
 */
-class Player{
+class Player : public Actor{
+protected:
   int maxHealth;
-  int health;
   int defense;
   int attack;
   int experiencePoints;
+  int level ;
+  std::vector<Inventories*> playerInventories;
+  Inventories * headGear;
+  Inventories * body;
+  Inventories  *footGear;
+  Inventories * weapon;
+  Inventories * talisman;
 public:
-  constexpr Player(){
+   std::string name ;
+   Player(std::string aname){
+    name = aname;
     maxHealth = 100;
-    health = 100;
+    //health = 100;
     defense = 0;
     attack = 0;
     experiencePoints = 0;
+    headGear = body = footGear = weapon = talisman = NULL;
+    level = 1;
+
   }
   ~Player() = default;//since no memory was allocated
-  void levelUp();
 
-  constexpr int getHealth(){
-    return health;
-  }
-  constexpr int getDefense(){
+  void displayInventory();
+  void levelUp();
+  void updateExperience();
+
+  int getDefense (){
     return defense;
   }
-  constexpr int getAttack(){
+  int getAttack (){
     return attack;
   }
-  constexpr int getexperiencePoints(){
+  int getexperiencePoints (){
     return experiencePoints;
   }
+  void collectInventory(Inventories * newInventory);
+
 
 };
 

@@ -1,12 +1,15 @@
 #include <iostream>
+#include <vector>
+#include <time.h>
+
+#include"Events.h"
+#include"Player.h"
 #include "Inventories.h"
 #include "Names.h"
 #include "RNG.h"
 
-#include <vector>
-#include <time.h>
-
 using std::vector;
+
 int main() {
     // testing inventories
     vector<Inventories*> playerInventories;
@@ -76,6 +79,12 @@ int main() {
     }
 
     playerInventories[0]->showStats();
+
+    std::cout << "/* message */" << '\n';
+    Player newPlayer("Bill");
+    newPlayer.collectInventory(playerInventories[0]);
+    Event anEvent(newPlayer);
+    while(anEvent.play());
 
 
     return 0;
