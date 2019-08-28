@@ -80,9 +80,9 @@ int main() {
 
     playerInventories[0]->showStats();
 
-    std::cout << "/* message */" << '\n';
+   // std::cout << "/* message */" << '\n';
     Player newPlayer("Bill");
-    newPlayer.collectInventory(playerInventories[0]);
+    //newPlayer.collectInventory(playerInventories[0]);
     Event anEvent(newPlayer);
     while(anEvent.play());
 
